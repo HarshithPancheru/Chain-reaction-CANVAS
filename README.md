@@ -24,7 +24,7 @@ JavaScript for logic and interactivity.
 ![image](https://github.com/user-attachments/assets/fbbe3b6f-bfdf-4fbd-ad0a-4283bbc9f3d9)
 
 
-**💡 What I Learned**
+**💡 What I Learned**<br>
 Implementing collision detection and response.
 Working with the HTML Canvas API to create animations.
 Enhancing problem-solving skills by experimenting with dynamic simulations.
